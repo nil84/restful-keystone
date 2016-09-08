@@ -16,7 +16,7 @@ It allows for very granular control of editable fields, population, filters and 
 ## Install
 
 ```sh
-$ npm install --save restful-keystone-onode
+$ npm install --save restful-keystone2
 ```
 
 ## Usage
@@ -32,7 +32,7 @@ Let's assume we've got an `Article` list set up in `models`. We only need a few 
 var keystone = require('keystone');
 
 // Pass your keystone instance to the module
-var restful = require('restful-keystone-onode')(keystone);
+var restful = require('restful-keystone2')(keystone);
 
 // ...
 
