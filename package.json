@@ -1,5 +1,5 @@
 {
-  "name": "restful-keystone-onode",
+  "name": "restful-keystone2",
   "version": "0.2.8",
   "description": "Automatic RESTful API enabler for KeystoneJS supporting pagination",
   "author": {
